@@ -43,3 +43,4 @@ This project demonstrates a simple implementation of **text-to-text generation**
 Install the required Python library using pip:
 ```bash
 pip install ollama
+ollama pull llama3.1
